@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Bender",
+      "path": "./components/paths/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Fry",
+      "path": "./components/paths/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Leela",
+      "path": "./components/paths/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Amy",
+      "path": "./components/paths/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Farnsworth",
+      "path": "./components/paths/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Zoidberg",
+      "path": "./components/paths/6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Calculon",
+      "path": "./components/paths/7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Roberto",
+      "path": "./components/paths/8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Hermes",
+      "path": "./components/paths/9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Hypnotoad",
+      "path": "./components/paths/10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Zapp",
+      "path": "./components/paths/11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Robot Devil",
+      "path": "./components/paths/12.jpg"
+    }
+  ]
+  

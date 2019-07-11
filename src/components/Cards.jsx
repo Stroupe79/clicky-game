@@ -1,14 +1,12 @@
 import React from 'react';
-import  images from './images/1.jpg'
+// import  './images'
+import './style.css'
 
 
-var i = 1;
-const img = images
-
-function ShowCard(){
+function ShowCard(props){
   return (
   <div className="card" style={{width: "50px"}}>
-    <img src={img} alt="click me!" />
+    <img alt={props.name} src={props.image} />
     </div>
     )
 }
