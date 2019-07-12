@@ -26,8 +26,8 @@ class App extends Component {
      {this.state.cards.map(card => (
        <ShowCard 
        id={card.id}
-       key={card.id}
-       image={card.path}
+       key={card.name}
+       image={card.image}
        />
      ))};
    </Board>

@@ -8,9 +8,11 @@ const card = () => { array.map()
 
 function Board(props) {
     return (
+
     <div className="board">
       {props.children}
       </div>
+
       )
   }
 

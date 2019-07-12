@@ -3,7 +3,7 @@ import React from "react";
 var score = 0;
 var highScore = 0;
 
-const Navbar = () => {
+const Navbar = (props) => {
     return (
         <nav className="navbar navbar-light">
             Score: {score} | High Score: {highScore}

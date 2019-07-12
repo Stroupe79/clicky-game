@@ -2,16 +2,17 @@
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
 }
 
-.card {
-  width: 18rem;
-  color: orange;
+html, body, #root {
+  padding: 0;
+  margin: 0;
+  height: 100%;
 }
+
 
 .jumbotron {
   color: white;
@@ -25,7 +26,7 @@
   font-size: 50px;
 }
 
-.App-header {
+/* .App-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -46,5 +47,5 @@
   }
   to {
     transform: rotate(360deg);
-  }
-}
+  } */
+/* } */
